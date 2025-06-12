@@ -1,4 +1,8 @@
-## Hi there 👋
+## Hi there, I'm Andreas 👋
+
+🔭 I’m currently working on my developer skills by Developer Akademie.
+🌱 current learning module: javascript.
+🦾 improving my HTML and CSS skills already.
 
 <!--
 **AndreasBremDev/AndreasBremDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
